@@ -1,0 +1,3 @@
+<div>
+    BARANG keluar
+</div>
